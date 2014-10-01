@@ -11,7 +11,7 @@ public Plugin:myinfo = {
 };
 
 public OnPluginStart() {
-    RegConsoleCmd("sm_hello", Command_Hello, "Displays a greeting message");
+    RegConsoleCmd("sm_hello", Command_Hello, "Displays a greeting message.");
 }
  
 public Action:Command_Hello(client, args) {
