@@ -4,10 +4,10 @@
 
 public Plugin:myinfo = {
 	name        = "Hello!",
-	author      = "Emil Sayahi (Gamer1207)",
-	description = "Says Hello!",
+	author      = "Emil Sayahi]",
+	description = "Sayy hello!",
 	version     = "1.0.0.0",
-	url         = "http://www.emilsayahi.tk/"
+	url         = "http://www.emilsayahi.cf/"
 };
 
 public OnPluginStart() {
